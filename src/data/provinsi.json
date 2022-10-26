@@ -1,0 +1,140 @@
+{
+    "provinsi": [
+        {
+            "name": "Aceh",
+            "alias": "aceh"
+        },
+        {
+            "name": "Bali",
+            "alias": "bali"
+        },
+        {
+            "name": "Banten",
+            "alias": "banten"
+        },
+        {
+            "name": "Bengkulu",
+            "alias": "bengkulu"
+        },
+        {
+            "name": "DI Yogyakarta",
+            "alias": "di-yogyakarta"
+        },
+        {
+            "name": "DKI Jakarta",
+            "alias": "dki-jakarta"
+        },
+        {
+            "name": "Gorontalo",
+            "alias": "gorontalo"
+        },
+        {
+            "name": "Jambi",
+            "alias": "jambi"
+        },
+        {
+            "name": "Jawa Barat",
+            "alias": "jawa-barat"
+        },
+        {
+            "name": "Jawa Tengah",
+            "alias": "jawa-tengah"
+        },
+        {
+            "name": "Jawa Timur",
+            "alias": "jawa-timur"
+        },
+        {
+            "name": "Kalimantan Barat",
+            "alias": "kalimantan-barat"
+        },
+        {
+            "name": "Kalimantan Selatan",
+            "alias": "kalimantan-selatan"
+        },
+        {
+            "name": "Kalimantan Tengah",
+            "alias": "kalimantan-tengah"
+        },
+        {
+            "name": "Kalimantan Timur",
+            "alias": "kalimantan-timur"
+        },
+        {
+            "name": "Kalimantan Utara",
+            "alias": "kalimantan-utara"
+        },
+        {
+            "name": "Kepulauan Bangka Belitung",
+            "alias": "kepulauan-bangka-belitung"
+        },
+        {
+            "name": "Kepulauan Riau",
+            "alias": "kepulauan-riau"
+        },
+        {
+            "name": "Lampung",
+            "alias": "lampung"
+        },
+        {
+            "name": "Maluku",
+            "alias": "maluku"
+        },
+        {
+            "name": "Maluku Utara",
+            "alias": "maluku-utara"
+        },
+        {
+            "name": "Nusa Tenggara Barat",
+            "alias": "nusa-tenggara-barat"
+        },
+        {
+            "name": "Nusa Tenggara Timur",
+            "alias": "nusa-tenggara-timur"
+        },
+        {
+            "name": "Papua",
+            "alias": "papua"
+        },
+        {
+            "name": "Papua Barat",
+            "alias": "papua-barat"
+        },
+        {
+            "name": "Riau",
+            "alias": "riau"
+        },
+        {
+            "name": "Sulawesi Barat",
+            "alias": "sulawesi-barat"
+        },
+        {
+            "name": "Sulawesi Selatan",
+            "alias": "sulawesi-selatan"
+        },
+        {
+            "name": "Sulawesi Tengah",
+            "alias": "sulawesi-tengah"
+        },
+        {
+            "name": "Sulawesi Tenggara",
+            "alias": "sulawesi-tenggara"
+        },
+        {
+            "name": "Sulawesi Utara",
+            "alias": "sulawesi-utara"
+        },
+        {
+            "name": "Sumatera Barat",
+            "alias": "sumatera-barat"
+        },
+        {
+            "name": "Sumatera Selatan",
+            "alias": "sumatera-selatan"
+        },
+        {
+            "name": "Sumatera Utara",
+            "alias": "sumatera-utara"
+        }
+    ]
+}
