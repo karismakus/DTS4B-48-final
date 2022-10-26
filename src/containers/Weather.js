@@ -4,7 +4,6 @@ import axios from "axios";
 
 import Filter from "../components/Filter";
 import WeatherCard from "../components/WeatherCard";
-import Navbar from "../components/Navbar";
 import { Grid } from "@mui/material";
 
 const Weather = () => {

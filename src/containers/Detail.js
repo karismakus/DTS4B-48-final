@@ -1,10 +1,8 @@
-import { useLocation, useParams } from "react-router-dom";
+import { useLocation } from "react-router-dom";
 import React, { useEffect, useState } from "react";
 import Box from "@mui/material/Box";
 import axios from "axios";
 
-import Filter from "../components/Filter";
-import WeatherCard from "../components/WeatherCard";
 import Navbar from "../components/Navbar";
 import { Grid } from "@mui/material";
 import WeatherCardDetail from "../components/WeatherCardDetail";
